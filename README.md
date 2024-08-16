@@ -6,7 +6,7 @@
 - 😄 Fun fact: I'm looking for a partner not an enemy
 
 I'm a passionate Frontend Developer with experience in various modern web technologies.
-I specialize in building dynamic web applications using the following technologies:
+I specialize in building dynamic web applications using the following technologies :
 
 
 ## Tech Stack
@@ -66,6 +66,10 @@ I specialize in building dynamic web applications using the following technologi
   <!-- NPM -->
   <a href="https://www.npmjs.com/" target="_blank">
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+  </a>
+  <!-- Vite -->
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   </a>
   <!-- Vitest -->
   <a href="https://vitest.dev/" target="_blank">

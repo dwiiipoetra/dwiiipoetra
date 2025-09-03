@@ -1,7 +1,7 @@
 # Hi there, I'm Dwi Waluyo Putranto 👋
 
 ## Frontend Developer
-- 🔭 I’m currently working on PLN ICON PLUS a subsidiary from PLN
+- 🔭 I’m currently working on PT Anugerah Digital Indonesia (Fintech Company)
 - 🌱 I’m currently learning React.js, Next.js, Node.js, Express.js
 - 😄 Fun fact: I'm looking for a partner not an enemy
 
@@ -51,9 +51,9 @@ I specialize in building dynamic web applications using the following technologi
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   </a>
-  <!-- Nuxt.js -->
-  <a href="https://nuxt.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js"/>
+  <!-- Next.js -->
+  <a href="https://nextjs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   </a>
   <!-- Node.js -->
   <a href="https://nodejs.org/" target="_blank">

@@ -1,7 +1,7 @@
 # Hi there, I'm Dwi Waluyo Putranto 👋
 
 ## Frontend Developer
-- 🔭 I’m currently working on PT Anugerah Digital Indonesia (Fintech Company)
+- 🔭 I’m currently working on PLN Icon Plus (Subsidiary of PLN)
 - 🌱 I’m currently learning React.js, Next.js, Node.js, Express.js
 - 😄 Fun fact: I'm looking for a partner not an enemy
 
